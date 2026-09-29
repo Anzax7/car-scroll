@@ -1,0 +1,6 @@
+{
+  "name": "Zenith - Scroll-Driven Automotive Experience",
+  "description": "An ultra-premium, scroll-driven interactive hero section animation and showcase for a futuristic electric supercar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
